@@ -87,15 +87,15 @@ Show the grayed-out real-time threat protection settings:  <br/>
 
 <p align="center">
 Show the Microsoft's recommended Password and Account Lockout policy settings: <br/>
-<img src="https://i.imgur.com/czzV3Rn.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/czzV3Rn.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the linked MSDomainSecurity2019 object:  <br/>
-<img src="https://i.imgur.com/89gZPgR.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/89gZPgR.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the Password and Account Lockout policy settings: <br/>
-<img src="https://i.imgur.com/FSEJDxB.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/FSEJDxB.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
  <h2>Implement a Mobile Device Security Policy:</h2>
@@ -111,23 +111,23 @@ Show the Password and Account Lockout policy settings: <br/>
 
 <p align="center">
 Show the results of the Goodle Play Protect scan: <br/>
-<img src="https://i.imgur.com/M8gmYg5.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/M8gmYg5.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the updated "last successful check for update" timestamp: <br/>
-<img src="https://i.imgur.com/VCzGRLR.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/VCzGRLR.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the Android lock screen" timestamp: <br/>
-<img src="https://i.imgur.com/79ZJXpm.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/79ZJXpm.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the encryption set-up explanation: <br/>
-<img src="https://i.imgur.com/ZuKLtJb.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/ZuKLtJb.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the Find My Device settings" timestamp: <br/>
-<img src="https://i.imgur.com/b9ZN24n.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/b9ZN24n.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 
